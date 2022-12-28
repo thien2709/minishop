@@ -1,0 +1,28 @@
+:root {
+	--white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --primary-color: #ff5832;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 100%;
+    box-sizing: inherit;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 87.5%;
+}
+
+.btn {
+    background-color: #f53d2d;
+}
